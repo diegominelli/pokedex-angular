@@ -1,4 +1,3 @@
 @function rem-calc($size) {
-  $value: $size / 16;
-  @return #{value}rtem;
+  @return calc($size / 16) + rem;
 }
