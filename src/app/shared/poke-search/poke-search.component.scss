@@ -1,5 +1,9 @@
 @import "../../../config-scss/rem-calc.scss";
 
+.search {
+  margin-top: 40px;
+}
+
 :host {
   form {
     display: flex;
