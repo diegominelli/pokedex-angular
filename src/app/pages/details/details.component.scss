@@ -37,6 +37,7 @@
         top: rem-calc(-90);
         left: rem-calc(30);
         max-width: rem-calc(130);
+        z-index: 1;
       }
 
       &__statistics {
